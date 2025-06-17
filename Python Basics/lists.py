@@ -50,3 +50,32 @@ while i<len(thislist):
 
 print("--------List comprehension---------")
 [print(x) for x in thislist]
+
+print("----Sorted List------")
+thislist = [100, 50, 65, 82, 23]
+thislist.sort()
+print(thislist)
+
+
+def myfunc(n):
+   return abs(n-50)
+
+thislist.sort(key = myfunc)
+print("----Sorted List based on Key------")
+print(thislist)
+
+#Copy list
+mylist = thislist.copy()
+print(mylist)
+
+mylist = thislist[:]
+print(mylist)
+
+#Joining lists
+list1 = ["a", "b", "c"]
+list2 = [1, 2, 3]
+
+list3 = list1 + list2
+list1.extend(list2)
+for x in list2:
+  list1.append(x)
