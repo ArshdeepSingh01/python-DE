@@ -1,4 +1,5 @@
 # Why python for Data Engineering?
+
 Python is extensively used in data engineering for various tasks like data ingestion, transformation, and loading, as well as for building and orchestrating data pipelines. Its rich ecosystem of libraries like Pandas and NumPy, combined with its readability and ease of use, make it a popular choice for data engineers. 
 
 # Data types
@@ -60,3 +61,22 @@ A dictionary is a collection which is ordered*, changeable and do not allow dupl
 
 It is also possible to use the dict() constructor to make a dictionary.
 items() returned list is a view of the items of the dictionary, meaning that any changes done to the dictionary will be reflected in the items list.
+
+# Sets
+
+Sets are used to store multiple items in a single variable.
+
+Set is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Tuple, and Dictionary, all with different qualities and usage.
+
+A set is a collection which is unordered, unchangeable*, and unindexed.
+
+# Tuples
+
+Tuples are used to store multiple items in a single variable.
+
+Tuple is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Set, and Dictionary, all with different qualities and usage.
+
+A tuple is a collection which is ordered and unchangeable.
+
+Tuples are written with round brackets.
+
