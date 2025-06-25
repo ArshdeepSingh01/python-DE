@@ -80,3 +80,8 @@ A tuple is a collection which is ordered and unchangeable.
 
 Tuples are written with round brackets.
 
+# Conditional statements 
+Conditional statements in Python are used to execute certain blocks of code based on specific conditions. 
+**if, elif, if-else, match**
+
+# Loops
