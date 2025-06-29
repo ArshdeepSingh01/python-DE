@@ -1,6 +1,6 @@
 # Why python for Data Engineering?
 
-Python is extensively used in data engineering for various tasks like data ingestion, transformation, and loading, as well as for building and orchestrating data pipelines. Its rich ecosystem of libraries like Pandas and NumPy, combined with its readability and ease of use, make it a popular choice for data engineers. 
+Python is extensively used in data engineering for various tasks like data ingestion, transformation, and loading, as well as for building and orchestrating data pipelines. Its rich ecosystem of libraries like Pandas and NumPy, combined with its readability and ease of use, make it a popular choice for data engineers.
 
 # Data types
 
@@ -85,3 +85,9 @@ Conditional statements in Python are used to execute certain blocks of code base
 **if, elif, if-else, match**
 
 # Loops
+*for*
+A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+*while*
+With the while loop we can execute a set of statements as long as a condition is true.
+
+

@@ -10,3 +10,9 @@ else:
 while a < 100:
     print(a)
     a=a+10
+
+dic = {"Arshdeep":'A',"Singh":'S'}
+
+for key,value in dic.items():
+    print(key," = ",value)
+
