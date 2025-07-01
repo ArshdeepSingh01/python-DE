@@ -12,3 +12,19 @@ Packages are way to organize code in a reusable and clean manner by grouping mod
 3. Include __init__.py to mark the directory as package
 4. You can add sub-packages as well with seperate __init__.py files.
 5. Import package using dot notation, e.g., from mypackage.module1 import greet
+
+*Some useful defs*
+A module is a single file containing code (functions, classes, variables) that can be imported and reused in other programs.
+
+A library is a collection of related modules, often providing a larger set of functionalities.
+
+# List Comprehension
+List comprehension offers a shorter syntax when you want to create a new list based on the values of an existing list.
+
+# Exception handling
+
+Exception handling handles errors during the execution of a python program. 
+**try** block runs the code which performs your operations
+**except** blocks handle errors.
+**else** block runs if no exception occurs, displaying the result.
+**finally** block runs regardless of the outcome, indicating the completion of execution.
