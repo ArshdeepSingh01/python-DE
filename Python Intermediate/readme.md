@@ -28,3 +28,15 @@ Exception handling handles errors during the execution of a python program.
 **except** blocks handle errors.
 **else** block runs if no exception occurs, displaying the result.
 **finally** block runs regardless of the outcome, indicating the completion of execution.
+
+# File Handling
+File handling refers to the process of performing operations on a file such as creating, opening, reading, writing and closing it, through a programming interface. 
+
+# Functions
+A function is a block of code which only runs when it is called.
+You can pass data, known as parameters, into a function.
+A function can return data as a result.
+
+# Lambda function
+A lambda function is a small anonymous function.
+A lambda function can take any number of arguments, but can only have one expression.
