@@ -25,7 +25,7 @@ thistuple.insert(len(thistuple),"Chandigarh")
 print(thistuple)
 thistuple = tuple(thistuple)
 
-fruits = ("apple", "banana", "cherry", "strawberry", "raspberry")
+fruits = ("apple", "banana", "cherry", "strawberry", "raspberry",)
 
 (green, yellow, *red) = fruits
 
